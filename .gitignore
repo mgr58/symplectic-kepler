@@ -1,0 +1,21 @@
+# Ignore all
+*
+
+# Unignore files with extensions .c and .h and .py
+!*.c
+!*.h
+!*.py
+
+# Unignore all dirs
+!*/
+
+# Unignore makefiles
+!Makefile
+!makefile
+
+# Unignore .gitignore
+!.gitignore
+
+# Unignore markdown files
+!*.md
+
